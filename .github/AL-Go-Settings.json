@@ -6,6 +6,7 @@
     "continuousDeployment": true
   },
   "DeployToPROD": {
+    "EnvironmentName": "clientdemogb",
     "continuousDeployment": false
   }
 }
